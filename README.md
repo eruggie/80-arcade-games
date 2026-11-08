@@ -3,6 +3,7 @@
 A personal collection of independent open-source arcade game projects by Eugenio
 Ruggieri. Each standalone game has its own repository, license information and
 versioned releases. This catalog links the games; it does not duplicate binaries.
+We begin with a classic arcade title that is sure to give those of my generation a thrill.
 
 ## Games
 
